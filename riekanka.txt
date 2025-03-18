@@ -7,3 +7,5 @@ Utekaj myška, utekaj,
 kocúr má veľký hlad.
 Skry sa radšej do diery,
 tam ťa nezbadá.
+
+Pridal som text riadok=simulacia zasahu AI. Zaloha 01
